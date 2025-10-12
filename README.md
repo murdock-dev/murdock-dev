@@ -65,7 +65,9 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murdock-dev&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=murdock-dev&theme=radical" />
+  <br><br>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murdock-dev&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=css,html" />
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=murdock-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murdock-dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>  
@@ -75,13 +77,14 @@
 ## 🎯 Top Projects
 
 ><p><img src="https://telegram-card.vercel.app/?username=DD_Bypass_Updates" alt="@" style="width: 300px; max-width: 100%; height: auto;" /> <br> <b>📜 A Bot To Bypass Shortener Links & Generate Direct Download Links From File Sharer Websites & Extract Posters From Various OTT Platforms</b></p>
+
+<br><br>
+
 ---
+
+<br><br>
+
 ><p><img src="https://socialify.git.ci/murdock-dev/DeliveryPredictor/image?custom_description=A+Flask-based+web+app+that+forecasts+delivery+times+using+ML+.+Users+input+package+details%2C+and+it+predicts+ETA+delivery+status.&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto" alt="DeliveryPredictor" width="640" height="320" /></p>
-
----
-
-## 😂 Random Joke
-<img src="https://camo.githubusercontent.com/9f659e6f3472c938acaec6a1eff134d6bbb54a25ae99fddd539a2f9a21464d26/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f68696465426f72646572"/>
 
 ---
 
