@@ -88,10 +88,11 @@
 ><p><img src="https://socialify.git.ci/murdock-dev/DeliveryPredictor/image?custom_description=A+Flask-based+web+app+that+forecasts+delivery+times+using+ML+.+Users+input+package+details%2C+and+it+predicts+ETA+delivery+status.&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto" alt="DeliveryPredictor" width="640" height="320" /></p>
 
 ---
+## 🎵 Spotify
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31edbcehrq2toelqq5nn247nplky&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edbcehrq2toelqq5nn247nplky&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edbcehrq2toelqq5nn247nplky&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
