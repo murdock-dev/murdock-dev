@@ -69,6 +69,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murdock-dev&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=css,html" />
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=murdock-dev&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murdock-dev&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>  
 
