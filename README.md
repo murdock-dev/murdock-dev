@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F23D5E&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Matt+Murdock+(%40murdock-dev)++;%20Pythonista+%7C+Backend+Engineer+%7C+Automation+Addict;Open-Source+Contributor+%7C+AI+%26+Async+Enthusiast" alt="Typing Intro" />
 </p>
 <p align="center">
+  <a href="https://matt-murdock.in">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/murdock-dev">
     <img src="https://komarev.com/ghpvc/?username=murdock-dev&color=blue&style=flat-square" alt="Profile Views" />
   </a>
@@ -77,15 +80,8 @@
 
 ## 🎯 Top Projects
 
-><p><img src="https://telegram-card.vercel.app/?username=DD_Bypass_Updates" alt="@" style="width: 300px; max-width: 100%; height: auto;" /> <br> <b>📜 A Bot To Bypass Shortener Links & Generate Direct Download Links From File Sharer Websites & Extract Posters From Various OTT Platforms</b></p>
-
-<br><br>
-
----
-
-<br><br>
-
-><p><img src="https://socialify.git.ci/murdock-dev/DeliveryPredictor/image?custom_description=A+Flask-based+web+app+that+forecasts+delivery+times+using+ML+.+Users+input+package+details%2C+and+it+predicts+ETA+delivery+status.&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Auto" alt="DeliveryPredictor" width="640" height="320" /></p>
+[![DeliveryPredictor](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=DeliveryPredictor)](https://github.com/murdock-dev/DeliveryPredictor)
+[![DD-Bypass-Bot](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=DD-Bypass-Bot)](https://github.com/murdock-dev/DD-Bypass-Bot)
 
 ---
 ## 🎵 Spotify
