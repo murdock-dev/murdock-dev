@@ -80,6 +80,7 @@
 
 ## 🎯 Top Projects
 
+[![HarmoniQ](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=HarmoniQ)](https://github.com/murdock-dev/HarmoniQ)
 [![DeliveryPredictor](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=DeliveryPredictor)](https://github.com/murdock-dev/DeliveryPredictor)
 [![DD-Bypass-Bot](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=DD-Bypass-Bot)](https://github.com/murdock-dev/DD-Bypass-Bot)
 
