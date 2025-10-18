@@ -84,13 +84,10 @@
 [![DD-Bypass-Bot](https://github-readme-stats.vercel.app/api/pin/?username=murdock-dev&repo=DD-Bypass-Bot)](https://github.com/murdock-dev/DD-Bypass-Bot)
 
 ---
-## 🎵 Spotify
+## 🎵 Last FM
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31edbcehrq2toelqq5nn247nplky&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edbcehrq2toelqq5nn247nplky&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
-  </a>
-</p>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=matt-murdock&count=1)
 
 ---
 
