@@ -87,7 +87,7 @@
 ## 🎵 Last FM
 
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=matt-murdock&count=1)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=matt-murdock&count=1&maxage=60)
 
 ---
 
